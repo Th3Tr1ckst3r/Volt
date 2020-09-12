@@ -1,0 +1,1 @@
+Git does not allow folders without files, therefore this placeholder file is here until a new binary takes its place.
