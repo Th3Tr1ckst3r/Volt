@@ -20,6 +20,6 @@ Installation process here.
 
 Requirements here.
 
-```
+```Python
 some code here
 ```
