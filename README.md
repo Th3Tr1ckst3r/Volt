@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="100" src="IMAGEHERE">
+  <img width="128" height="128" src="/Icons/program_icon.png">
 </p>
 
 
@@ -10,7 +10,7 @@ Volt is a free, secure, and interactive AES256-bit encryption program. This is n
 
 # Demo
 
-![Demo](/Images/Demo.gif)
+![Demo]()
 
 # Installation
 
