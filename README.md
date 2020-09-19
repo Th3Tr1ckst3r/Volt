@@ -6,7 +6,7 @@
 
 # Volt
 
-App description here.
+Volt is a free, secure, and interactive AES256-bit encryption program. This is not yet ready for production use, and ALOT needs to be tested first.
 
 # Demo
 
@@ -14,12 +14,14 @@ App description here.
 
 # Installation
 
-Installation process here.
+More documentation coming soon.
 
 # Requirements
 
-Requirements here.
+Requirements for this project were carefully thought out before being included. I designed Volt to be light-weight, and fully-functional.
+As such, almost all imports are already included in your default Python3 installation. A few are not included, and they will be listed down below:
 
 ```Python
-some code here
+pip install Gooey
+pip install Cryptography
 ```
