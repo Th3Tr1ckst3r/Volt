@@ -4,13 +4,9 @@
 
 
 
-# Volt
+# Volt, protect your files for free, your way!
 
 Volt is a free, secure, and interactive AES256-bit encryption program. Designed to be light-weight, cross-platform, and usable in GUI, or CLI forms. This is not yet ready for production-use, but ready for personal-use.
-
-# Version
-
-<b>1.0</b>
 
 # Themes
 
@@ -23,6 +19,10 @@ Matrix Theme             |  Standard Theme
 # Demo
 
 ![Demo]()
+
+# Version
+
+<b>1.0</b>
 
 # Installation
 
