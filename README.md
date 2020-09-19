@@ -6,7 +6,7 @@
 
 # Volt
 
-Volt is a free, secure, and interactive AES256-bit encryption program. This is not yet ready for production use, and ALOT needs to be tested first.
+Volt is a free, secure, and interactive AES256-bit encryption program. Designed to be light-weight, cross-platform, and usable in GUI, or CLI forms. This is not yet ready for production use, and ALOT needs to be tested first.
 
 # Version
 
