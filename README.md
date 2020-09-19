@@ -16,10 +16,9 @@ Volt is a free, secure, and interactive AES256-bit encryption program. Designed 
 
 Volt comes with two beautiful themes by default, standard, and matrix. Easily to add your own with modification.
 
-<p align="center">
-  <img width="780" height="640" src="/Themes/standard.JPG">
-  <img width="780" height="640" src="/Themes/matrix.JPG">
-</p>
+Matrix Theme             |  Standard Theme
+:-------------------------:|:-------------------------:
+![Matrix Theme](/Themes/matrix.JPG)  |  ![Standard Theme](/Themes/standard.JPG)
 
 # Demo
 
