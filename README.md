@@ -10,7 +10,7 @@ Volt is a free, secure, and interactive AES256-bit encryption program. Designed 
 
 # Version
 
-1.0
+<b>1.0</b>
 
 # Themes
 
